@@ -6,4 +6,6 @@ Personal Tech Blog
 
 ## Summary
 
-Blog based on [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/)
+Technical blog based on [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+
+For more details go to https://flopezlasanta.github.io/
