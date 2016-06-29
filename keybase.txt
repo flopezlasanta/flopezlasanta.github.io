@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/flopezlasanta
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://flopezlasanta.github.io
+  * I am flopezlasanta (https://keybase.io/flopezlasanta) on keybase.
+  * I have a public key with fingerprint 55A8 3CF8 344E 834A 3E00  ED65 3FD4 E16E 77EA DB72
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b9f115cdc48ab3ff19ff221feec1657972057761a0cdbde4b19f329835ef76270a",
+            "fingerprint": "55a83cf8344e834a3e00ed653fd4e16e77eadb72",
+            "host": "keybase.io",
+            "key_id": "3fd4e16e77eadb72",
+            "kid": "0101b9f115cdc48ab3ff19ff221feec1657972057761a0cdbde4b19f329835ef76270a",
+            "uid": "3dc01977d7a1b535b7398ee0fbedc019",
+            "username": "flopezlasanta"
+        },
+        "service": {
+            "hostname": "flopezlasanta.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467226524,
+    "expire_in": 157680000,
+    "prev": "5c5eb0857e7a1a5e577b1e37bd1eb1cb0db0adedd17902beef749e42962a3f21",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJdSBVBFN6rZmplgYSGQbRUFFnt7N/ctewH6qlCKqIfo8vMztnr5m33
+dnevZWpCYEG9FESBCf1IP2RCCGmZ2M0siKgLFiqUEpjRgwQFRYVBs1pvPTYPM8yc
+73zn+86cvlmZQl5IkAtGXj0eKgw9f3QzKezy5zXXitRlNWJprVgFkwfEGHh+pMpm
+YqkoIQlRw0JIM5mphglVLAsZliXLyAIwka5hA8uShrGOiGQyykClHKDIRljRwMK6
+jCUiloiW7UQhEU/Yjs9pNY2EFdMKK6oKfCMKSBIwXVMspgLSAWMgjGKZJ1a6XpDB
+xVHiwUrb5W/8EpmU9w/8f9adnKrDTAkZGDNMENUUjWLFCANIFoXJSAD0IOGQg8DR
+VsyNw9EY8YjjE7G+ROShatuEoLuBnX/BVkZtvzJJp/zFE67vmm6Mgyp9P+6VBiR+
+TTzIOgw08ocvQm2H8b7yjGpIeLbriKWII03fDgogVceyrGuyWiLCkbidgIgdIDSs
+hyW+gjpQHfyGqQGVwhoGbo9owLtCESiYMgQUmVRiVCIMGEPYkGQKvD2qAaps6DJR
+LBmJgcNDjsu5da6TRDmnZ0cd4icTINb3pvZlCaE8IXtaRjBwQl7unL9jOFyRIxy/
+pN25EbpfpBRU3bbSyoF4X/Tc7pMtDV96jm4e6aidP3ptbWpC+bB6SXL50yvSmW1G
+38v6HS/qkuFf5Z/a8me+q886Oze7ODR6bn/bdbv37pbH2xfFlraerx04sKN9Znp0
+z/euiaEfP99ErmYuW0HKjxQ1XEYqO5UqW+V497auKd4eWbTuYmw4QR92n9i0kDY9
+KNvbVZgzbfzU4hmDX98KqRUs3dm63twrNt5r3ZjRK+4vFCrbB2+t7XDo165jjdBT
+JzeM9aSn97//llzfcaFs/GPFzmdbn+xs6XfMsz8f5jd3P1natOqzM5v1bVjgvUud
+7kyPldWU2FbWllh+7uuBut/gjkbm
+=hBfo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/flopezlasanta
+
+==================================================================
