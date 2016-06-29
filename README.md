@@ -1,2 +1,9 @@
 # flopezlasanta.github.io
-Blog based on GitHub pages and Jekyll
+
+Personal Tech Blog
+
+[![Travis CI Status](https://travis-ci.org/flopezlasanta/flopezlasanta.github.io.svg?branch=master)](https://travis-ci.org/flopezlasanta/flopezlasanta.github.io) [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+
+## Summary
+
+Blog based on [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/)
