@@ -14,7 +14,7 @@ My (current) areas of interest are:
 <li>Docker: Engine, Machine, Compose, Swarm...
 <li>Scala: Spray, Akka, Kafka, Spark...
 <li>and Machine Learning in general.
-</li>ul>
+</ul>
 
 My open source work is available on [GitHub](https://github.com/flopezlasanta) and [Gist](https://gist.github.com/flopezlasanta), while my work history is on [LinkedIn](https://es.linkedin.com/in/flopezlasanta).
 
