@@ -9,12 +9,11 @@ Hello, my name is Francisco (Paco) Lopez Lasanta and I’m a software engineer @
 Most of what I write here is about Software and DevOps.
 
 My (current) areas of interest are:
-<ul>
-<li>MicroServices: Spring Boot, Spring Cloud, Netflix OSS...</li>
-<li>Docker: Engine, Machine, Compose, Swarm...</li>
-<li>Scala: Spray, Akka, Kafka, Spark...</li>
-<li>and Machine Learning in general.</li>
-</ul>
+
+- MicroServices: Spring Boot, Spring Cloud, Netflix OSS...
+- Docker: Engine, Machine, Compose, Swarm...
+- Scala: Spray, Akka, Kafka, Spark...
+- and Machine Learning in general
 
 My open source work is available on [GitHub](https://github.com/flopezlasanta) and [Gist](https://gist.github.com/flopezlasanta), while my work history is on [LinkedIn](https://es.linkedin.com/in/flopezlasanta).
 

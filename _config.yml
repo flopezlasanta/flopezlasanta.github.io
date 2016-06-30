@@ -8,11 +8,10 @@
 # Site settings
 title: Francisco Lopez Lasanta
 email: flopezlasanta@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Francisco (Paco) Lopez Lasanta technical blog
+description: Francisco (Paco) Lopez Lasanta technical blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://flopezlasanta.github.io" # the base hostname & protocol for your site
-twitter_username: flopezlasanta
+linkedin_username: flopezlasanta
 github_username:  flopezlasanta
 
 # Build settings
