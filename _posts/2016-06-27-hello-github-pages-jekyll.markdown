@@ -6,14 +6,22 @@ categories: github jekyll blog
 comments: false
 ---
 
-Creating (and maintaining) a blog about technical stuff is something I wanted to do since a long time ago. There are multiple options to do that: [WordPress](https://wordpress.com/), [Tumblr](http://www.tumblr.com/), [Ghost](https://ghost.org/)... However lately I am using [GitHub](https://github.com/) quite a lot and because of that I ended up choosing [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). The learning curve is really simple and they provide pretty much everything needed (to start with).
+Creating (and maintaining) a blog about technical stuff is something I wanted to do since a long time ago. There are multiple options to do that: [WordPress](https://wordpress.com/), [Tumblr](http://www.tumblr.com/), [Ghost](https://ghost.org/)... However lately I am using [GitHub](https://github.com/) quite a lot and because of that I ended up choosing [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). The learning curve is really simple and they provide pretty much everything needed (to start with). 
 
-In this post, my first one, I'll share the steps I followed to create this blog using such tools. Note it's in a very early stage thus please don't be too hard (constructive comments are more than welcome!).
+In this post, my first one, I'll share the steps followed to create this blog using such tools. It's in a very early stage thus (constructive) comments to make it better are more than welcome.
+
+Environment
+-----------
+
+- OS: OS X 10.11.5 El Capitan
+- Editor: [Sublime Text 3](https://www.sublimetext.com/3)
+- Package Manager: [Homebrew](http://brew.sh/)
+
 
 Basics
 ------
 
-1. Create a new repository according to the guidelines mentioned in GitHub Pages _(tip: set .gitignore for Jekyll contents)_.
+1. Create a new git repository according to the guidelines mentioned in GitHub Pages _(tip: set .gitignore for Jekyll contents)_.
 2. Install Jekyll in local.
 3. Create a new Jekyll site using as site name the repository name.
 4. Modify the file **_config.yml** with the site name and with your contact information.
