@@ -6,7 +6,9 @@ categories: github jekyll blog
 comments: false
 ---
 
-This post provides the steps to create a blog with GitHub Pages and Jekyll.
+Creating (and maintaining) a blog about technical stuff is something I wanted to do since a long time ago. There are multiple options to do that: [WordPress](https://wordpress.com/), [Tumblr](http://www.tumblr.com/), [Ghost](https://ghost.org/)... However lately I am using [GitHub](https://github.com/) quite a lot and because of that I ended up choosing [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). The learning curve is really simple and they provide pretty much everything needed (to start with).
+
+In this post, my first one, I'll share the steps I followed to create this blog using such tools. Note it's in a very early stage thus please don't be too hard (constructive comments are more than welcome!).
 
 Basics
 ------
