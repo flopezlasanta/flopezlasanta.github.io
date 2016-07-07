@@ -17,5 +17,5 @@ My (current) areas of interest are:
 
 My open source work is available on [GitHub](https://github.com/flopezlasanta) and [Gist](https://gist.github.com/flopezlasanta), while my work history is on [LinkedIn](https://es.linkedin.com/in/flopezlasanta).
 
-My digital identity is on [Keybase](https://keybase.io/flopezlasanta) and my public key fingerprint is ```55A8 3CF8 344E 834A 3E00 ED65 3FD4 E16E 77EA DB72```.
+My digital identity is on [Keybase](https://keybase.io/flopezlasanta) and my PGP fingerprint is ```55A8 3CF8 344E 834A 3E00 ED65 3FD4 E16E 77EA DB72```.
 
