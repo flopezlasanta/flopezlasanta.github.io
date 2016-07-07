@@ -6,33 +6,41 @@ categories: github jekyll blog
 comments: false
 ---
 
-Creating (and maintaining) a blog about technical stuff is something I wanted to do since a long time ago. There are multiple options to do that: [WordPress](https://wordpress.com/), [Tumblr](http://www.tumblr.com/), [Ghost](https://ghost.org/)... However lately I am using [GitHub](https://github.com/) quite a lot and because of that I ended up choosing [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). The learning curve is really simple and they provide pretty much everything needed (to start with). 
+I always wanted to create a blog about **software development**. Initially I explored [WordPress](https://wordpress.com/), [Tumblr](http://www.tumblr.com/), and [Ghost](https://ghost.org/).
 
-In this post, my first one, I'll share the steps followed to create this blog using such tools. It's in a very early stage thus (constructive) comments to make it better are more than welcome.
+However I ended up choosing the combination [Github Pages](https://pages.github.com/) plus [Jekyll](https://jekyllrb.com/):
 
-Environment
------------
+- Github Pages is a hosting service provided by [GitHub](https://github.com/)
+- Jekyll is a [Ruby](https://www.ruby-lang.org/) gem that renders [Markdown](https://guides.github.com/features/mastering-markdown/) templates to produce a complete, static website
+
+Together they make easy to create and maintain a website:
+
+- The hosting site is provided automatically
+- Contents are based on Markdown rather than HTML
+- Contents are transferred to the site updating your GitHub repository with ```git``` commands
+
+The **development environment** I used to create this site is based on:
 
 - OS: OS X 10.11.5 El Capitan
-- Editor: [Sublime Text 3](https://www.sublimetext.com/3)
 - Package Manager: [Homebrew](http://brew.sh/)
+- Editor: [Sublime Text 3](https://www.sublimetext.com/3)
+- Terminal: [iTerm2](https://www.iterm2.com/)
 
+The **initial steps** I followed to create this site were the following:
 
-Basics
-------
+- Create a GitHub repository according to the guidelines mentioned in [Github Pages](https://pages.github.com/)
+- Install Jekyll in local: ```gem install jekyll```
+- Create a new site based on the GitHub repository name: ```jekyll new flopezlasanta.github.io```
+  - Information about files and folders automatically created is available at [Jekyll > Directory Structure](https://jekyllrb.com/docs/structure/)
+- Modify the file ```_config.yml``` with the site name and contact information (email address, GitHub username, ...)
+- Modify the file ```about.md``` with an introduction about you (areas of interest, [LinkedIn](https://www.linkedin.com/) profile, ...)
+- Push the Jekyll site to the GitHub repository as explained in [Github > Add Project to Repository](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
+- Wait a few minutes and then browse to the public URL: ```open https://flopezlasanta.github.io```
 
-1. Create a new git repository according to the guidelines mentioned in GitHub Pages _(tip: set .gitignore for Jekyll contents)_.
-2. Install Jekyll in local.
-3. Create a new Jekyll site using as site name the repository name.
-4. Modify the file **_config.yml** with the site name and with your contact information.
-5. Modify the file **about.md** with an introduction about you.
-6. Add the Jekyll site to the repository following the steps mentioned in [Github > Add Project to Repository](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/).
-6. Enjoy your recently created site browsing to its public URL.
+Some additional changes I made about **site identity and browsing** were the following:
 
-Identity
---------
-1. Add a file **robots.txt** to give instructions about the site to web robots, see [robotstxt.org](http://www.robotstxt.org/robotstxt.html).
-2. Add a file **keybase.txt** obtained from [keybase.io](https://keybase.io/) _(requires to login with a Keybase account)_ to confirm the digital identity of the site owner.
-3. Add a file **google65fe8dc7fdb34030.html** _(file name should be a different one)_ obtained from [Google Webmaster Central](https://www.google.com/webmasters/verification) _(requires to login with a Google account)_ to tell Google of the site ownership.
+- Add a file ```robots.txt``` to give instructions about the site to web robots (see [robotstxt.org](http://www.robotstxt.org/robotstxt.html))
+- Add a file ```keybase.txt```, obtained from [keybase.io](https://keybase.io/), to confirm the digital identity of the site owner
+- Add a file ```googleXXX.html```, obtained from [Google Webmaster Central](https://www.google.com/webmasters/verification), to tell Google of the site ownership
 
-**TO BE COMPLETED**
+<strong>TO BE COMPLETED</strong>
