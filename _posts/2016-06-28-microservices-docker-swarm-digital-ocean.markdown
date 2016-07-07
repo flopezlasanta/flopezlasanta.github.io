@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deploy MicroServices in Docker Swarm and Digital Ocean"
+title: "MicroServices in Docker Swarm and Digital Ocean"
 date: 2016-06-28
 categories: microservices docker cloud
 ---
@@ -20,4 +20,4 @@ The technologies used for this proof of concept are the following:
 - [Digital Ocean](https://www.digitalocean.com/) is used to provision a cloud environment
 
 
-<strong>TO BE COMPLETED</strong>
+<strong>Note: this post will be extended with a step-by-step guide</strong>

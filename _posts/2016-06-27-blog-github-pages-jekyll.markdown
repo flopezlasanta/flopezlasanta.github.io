@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Create blog with GitHub Pages and Jekyll"
+title: "Blog with GitHub Pages and Jekyll"
 date: 2016-06-27
 categories: github jekyll blog
-comments: false
 ---
 
 I always wanted to create a blog about **software development**. Initially I explored [WordPress](https://wordpress.com/), [Tumblr](http://www.tumblr.com/), and [Ghost](https://ghost.org/).
@@ -43,4 +42,4 @@ Some additional changes I made about **site identity and browsing** were the fol
 - Add a file ```keybase.txt```, obtained from [keybase.io](https://keybase.io/), to confirm the digital identity of the site owner
 - Add a file ```googleXXX.html```, obtained from [Google Webmaster Central](https://www.google.com/webmasters/verification), to tell Google of the site ownership
 
-<strong>TO BE COMPLETED</strong>
+<strong>Note: this post will be extended with information about the way to create a post and to customize the theme</strong>
