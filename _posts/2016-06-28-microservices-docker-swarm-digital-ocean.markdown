@@ -7,7 +7,7 @@ categories: microservices docker cloud
 
 This post explains how to develop and deploy a solution based on **microservices in the cloud**.
 
-The technologies used for this proof of concept are the following:
+The **technologies** used are the following:
 
 - [Spring Boot](http://projects.spring.io/spring-boot/) is used to develop the microservices
   - Spring Boot Starters: Web, Session (with Redis), and Thymeleaf (UI)
@@ -19,5 +19,30 @@ The technologies used for this proof of concept are the following:
 - [DockerHub]() is used to store the Docker images
 - [Digital Ocean](https://www.digitalocean.com/) is used to provision a cloud environment
 
+The **development environment** used includes the following:
 
-<strong>Note: this post will be extended with a step-by-step guide</strong>
+- OS: OS X 10.11.5 El Capitan
+- Package Manager: [Homebrew](http://brew.sh/)
+- Editor: [Sublime Text 3](https://www.sublimetext.com/3)
+- Terminal: [iTerm2](https://www.iterm2.com/)
+- **DevOps**: Maven 3.3, Java 1.8, Docker 1.12, Docker Machine 0.8, Docker Compose 1.8 (v2)
+
+## MicroServices
+
+<strong>to be completed</strong>
+
+## DevOps
+
+Steps are the following:
+
+1. Clone the GitHub repository: ```git clone git@github.com:flopezlasanta/spring-web.git```
+2. From the root folder, run ```mvn package```, to generate the fat JARs
+3. From the folder  ```cloud```, run ```sh ./digitalocean-swarm.sh```, to create the droplets and built the Swarm Cluster
+{% gist 33d8c0c034f98d995e5520bbcad2990b %}
+4. Once the droplets are ready, run ```eval $(docker-machine env --swarm docker-swarm-manager)```, to set the Swarm Manager as active Docker Machine
+5. From the folder ```docker```, run ```docker-compose up```, to build the images and launch the containers in the Swarm Cluster
+6. From the web browser, open the URL of the Swarm Manager droplet
+
+<strong>to be completed</strong>
+
+
