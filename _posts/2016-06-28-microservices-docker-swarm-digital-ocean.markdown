@@ -35,13 +35,13 @@ The **development environment** used includes the following:
 
 Steps are the following:
 
-1. Clone the GitHub repository: ```git clone git@github.com:flopezlasanta/spring-web.git```
-2. From the root folder, run ```mvn package```, to generate the fat JARs
-3. From the folder  ```cloud```, run ```sh ./digitalocean-swarm.sh```, to create the droplets and built the Swarm Cluster
+1. Clone the GitHub repository: ```git clone git@github.com:flopezlasanta/spring-web.git``` <strong>pending</strong>
+2. Run ```mvn package```, to generate the fat JARs
+3. Run ```sh ./cloud/digitalocean-swarm.sh```, to create the droplets and built the Swarm Cluster
 {% gist 33d8c0c034f98d995e5520bbcad2990b %}
-4. Once the droplets are ready, run ```eval $(docker-machine env --swarm docker-swarm-manager)```, to set the Swarm Manager as active Docker Machine
-5. From the folder ```docker```, run ```docker-compose up```, to build the images and launch the containers in the Swarm Cluster
-6. From the web browser, open the URL of the Swarm Manager droplet
+4. Run ```eval $(docker-machine env --swarm docker-swarm-manager)```, to set the Swarm Manager as active Docker Machine
+5. Run ```docker-compose -f ./docker/docker-compose.yml up```, to build the images and launch the containers in the Swarm Cluster
+6. Run ```open http://<ip-address-swarm-manager-droplet>:8080```, to test the microservices
 
 <strong>to be completed</strong>
 
