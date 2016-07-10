@@ -8,16 +8,19 @@ Hello, my name is Francisco (Paco) Lopez Lasanta and I’m a software engineer @
 
 Most of what I write here is about *software* and *DevOps*.
 
-My (current) areas of interest are:
+My areas of interest are:
 
 - MicroServices: Spring Boot, Spring Cloud, Netflix OSS...
 - Docker: Engine, Machine, Compose, Swarm...
 - Scala: Akka, Kafka, Spark...
 - and Machine Learning in general
 
-I am currently reading [Reactive Design Patterns (Kuhn, Allen)](https://www.manning.com/books/reactive-design-patterns) and [Advanced Analytics with Spark (Ryza, Laserson, Owen, Wils)](http://shop.oreilly.com/product/0636920035091.do).
+I am currently reading (or planning to read) the following books:
 
-_    Next: [Streaming Architecture (Dunning & Friedman)](http://shop.oreilly.com/product/0636920049463.do) and [Ansible: Up and Running (Hochstein)](http://shop.oreilly.com/product/0636920035626.do)._
+- [Reactive Design Patterns (Kuhn, Allen)](https://www.manning.com/books/reactive-design-patterns)
+- [Advanced Analytics with Spark (Ryza, Laserson, Owen, Wils)](http://shop.oreilly.com/product/0636920035091.do)
+- (Next) [Streaming Architecture (Dunning & Friedman)](http://shop.oreilly.com/product/0636920049463.do)
+- (Next) [Ansible: Up and Running (Hochstein)](http://shop.oreilly.com/product/0636920035626.do)
 
 My open source work is available on [GitHub](https://github.com/flopezlasanta) and [Gist](https://gist.github.com/flopezlasanta), while my work history is on [LinkedIn](https://es.linkedin.com/in/flopezlasanta). My digital identity is on [Keybase](https://keybase.io/flopezlasanta).
 
