@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello, my name is Francisco (Paco) Lopez Lasanta and I’m a software engineer @ Ericsson (Spain).
 
-Most of what I write here is about *software* and *DevOps*.
+Most of what I write here is about **software** and **DevOps**.
 
 My areas of interest are:
 
