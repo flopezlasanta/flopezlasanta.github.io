@@ -35,7 +35,7 @@ The **development environment** used includes the following:
 
 Steps are the following:
 
-1. Clone the GitHub repository: ```git clone git@github.com:flopezlasanta/spring-web.git``` <strong>pending</strong>
+1. Clone the GitHub repository: ```git clone git@github.com:flopezlasanta/micro-services.git``` <strong>pending</strong>
 2. Run ```mvn package```, to generate the fat JARs
 3. Run ```sh ./cloud/digitalocean-swarm.sh```, to create the droplets and build the Swarm Cluster
 {% gist 33d8c0c034f98d995e5520bbcad2990b %}
