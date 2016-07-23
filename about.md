@@ -17,10 +17,10 @@ My areas of interest are:
 
 I am currently reading (or planning to read) the following books:
 
-- [Reactive Design Patterns (Kuhn, Allen)](https://www.manning.com/books/reactive-design-patterns)
-- [Advanced Analytics with Spark (Ryza, Laserson, Owen, Wils)](http://shop.oreilly.com/product/0636920035091.do)
-- (Next) [Streaming Architecture (Dunning & Friedman)](http://shop.oreilly.com/product/0636920049463.do)
-- (Next) [Ansible: Up and Running (Hochstein)](http://shop.oreilly.com/product/0636920035626.do)
+- [ ] [Reactive Design Patterns (Kuhn, Allen)](https://www.manning.com/books/reactive-design-patterns)
+- [ ] [Advanced Analytics with Spark (Ryza, Laserson, Owen, Wils)](http://shop.oreilly.com/product/0636920035091.do)
+- [x] [Streaming Architecture (Dunning & Friedman)](http://shop.oreilly.com/product/0636920049463.do)
+- [x] [Ansible: Up and Running (Hochstein)](http://shop.oreilly.com/product/0636920035626.do)
 
 My open source work is available on [GitHub](https://github.com/flopezlasanta) and [Gist](https://gist.github.com/flopezlasanta), while my work history is on [LinkedIn](https://es.linkedin.com/in/flopezlasanta). My digital identity is on [Keybase](https://keybase.io/flopezlasanta).
 
