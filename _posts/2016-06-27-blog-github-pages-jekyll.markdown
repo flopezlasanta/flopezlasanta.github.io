@@ -33,6 +33,7 @@ The **initial steps** followed to create this site were the following:
   - Information about files and folders automatically created is available at [Jekyll > Directory Structure](https://jekyllrb.com/docs/structure/)
 - Modify the file ```_config.yml``` with the site name and contact information (email address, GitHub username, ...)
 - Modify the file ```about.md``` with an introduction about you (areas of interest, [LinkedIn](https://www.linkedin.com/) profile, ...)
+- Run ```jekyll server``` and then ```open http://127.0.0.1:4000/``` to check there are no errors and everything looks OK locally
 - Push the Jekyll site to the GitHub repository as explained in [Github > Add Project to Repository](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/)
 - Wait a few minutes and then browse to the public URL: ```open https://flopezlasanta.github.io```
 

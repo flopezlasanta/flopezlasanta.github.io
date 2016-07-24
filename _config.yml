@@ -11,7 +11,12 @@ email: flopezlasanta@gmail.com
 description: Francisco (Paco) Lopez Lasanta technical blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://flopezlasanta.github.io" # the base hostname & protocol for your site
-github_username:  flopezlasanta
+github_username:    flopezlasanta
+linkedin_username:  flopezlasanta
+keybase_username:   flopezlasanta
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+gems: [jekyll-gist]
