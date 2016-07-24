@@ -43,4 +43,9 @@ Some additional changes to address **site identity and browsing** were the follo
 - Add a file ```keybase.txt```, obtained from [keybase.io](https://keybase.io/), to confirm the digital identity of the site owner
 - Add a file ```googleXXX.html```, obtained from [Google Webmaster Central](https://www.google.com/webmasters/verification), to tell Google of the site ownership
 
+For customizing the look and feel:
+
+- Include cool icons thanks to [FontAwesome](http://fontawesome.io):
+  - e.g. ```<i class="fa fa-rebel"></i>``` adds an icon here: <a href="http://starwars.wikia.com/wiki/First_Order"><i class="fa fa-rebel"></i> Star Wars Rebel</a>
+
 <strong>Note: this post will be extended with information about the way to create a post and to customize the theme</strong>

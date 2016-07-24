@@ -8,7 +8,7 @@
 # Site settings
 title: Francisco Lopez Lasanta
 email: flopezlasanta@gmail.com
-description: Francisco (Paco) Lopez Lasanta technical blog
+description: Just another tech blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://flopezlasanta.github.io" # the base hostname & protocol for your site
 github_username:    flopezlasanta
