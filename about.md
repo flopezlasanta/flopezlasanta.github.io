@@ -24,11 +24,7 @@ I am currently reading (or planning to read) the following <i class="fa fa-book"
   <li><i class="fa-li fa fa-square-o"></i><a href="http://shop.oreilly.com/product/0636920035091.do">Advanced Analytics with Spark (Ryza, Laserson, Owen, Wils)</a></li>
   <li><i class="fa-li fa fa-check-square-o"></i><a href="http://shop.oreilly.com/product/0636920035626.do">Ansible: Up and Running (Hochstein)</a></li>
   <li><i class="fa-li fa fa-check-square-o"></i><a href="http://shop.oreilly.com/product/0636920049463.do">Streaming Architecture (Dunning & Friedman)</a></li>
-</ul>
-
-**Update!** just ordered the following ones:
-<ul class="fa-ul">
-  <li><i class="fa-li fa fa-square-o"></i><a href="https://www.amazon.com/dp/B010V8SICW">Learning Akka (J Goodwin)</a></li>
+  <li><i class="fa-li fa fa-check-square-o"></i><a href="https://www.amazon.com/dp/B010V8SICW">Learning Akka (J Goodwin)</a></li>
   <li><i class="fa-li fa fa-square-o"></i><a href="https://www.amazon.com/dp/B011S8YC5G">Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka (V Vernon)</a></li>
   <li><i class="fa-li fa fa-square-o"></i><a href="https://www.amazon.com/dp/B01EX49FOU">Programming in Scala, 3rd Edition, Scala 2.12 (Odersky, Spoon, Verners)</a></li>
   <li><i class="fa-li fa fa-square-o"></i><a href="https://www.amazon.com/dp/B01GU387MS">The Art of Monitoring (J Turnbull)</a></li>
