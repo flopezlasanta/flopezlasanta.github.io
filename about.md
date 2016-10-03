@@ -14,6 +14,8 @@ My areas of interest are:
   <li><i class="fa-li fa fa-angle-double-right"></i>MicroServices: <a href="http://projects.spring.io/spring-boot/">Spring Boot</a>, <a href="http://projects.spring.io/spring-cloud/">Spring Cloud</a>, <a href="https://netflix.github.io/">Netflix OSS</a>...</li>
 <li><i class="fa-li fa fa-angle-double-right"></i><a href="https://www.docker.com/">Docker</a>: Engine, Machine, Compose (v2!), Swarm...</li>
 <li><i class="fa-li fa fa-angle-double-right"></i>Scala: <a href="http://akka.io/">Akka</a>, <a href="http://kafka.apache.org/">Kafka</a>, <a href="http://spark.apache.org/">Spark</a>...</li>
+<li><i class="fa-li fa fa-angle-double-right"></i>Amazon AWS...</li>
+<li><i class="fa-li fa fa-angle-double-right"></i>Netflix OSS...</li>
 <li><i class="fa-li fa fa-angle-double-right"></i>and Machine Learning in general...</li>
 </ul>
 
